@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "twitch",
+  "name": "Twitch",
+  "description": "Streams en je favoriete makers in je Nexus-werkruimte. Aanmelding blijft bij Twitch.",
+  "kind": "app",
+  "version": "1.0.0",
+  "minNexus": "1.3.0",
+  "author": "Nexus Studio",
+  "accent": "#bd9be8",
+  "permissions": [
+    "web"
+  ],
+  "content": {
+    "type": "web",
+    "url": "https://www.twitch.tv/"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "id": "sunset",
+  "name": "Sunset",
+  "description": "Een compleet Sunset-palet voor je Nexus-dashboard. Pas het toe en wissel wanneer je wilt.",
+  "kind": "theme",
+  "version": "1.0.0",
+  "minNexus": "1.3.0",
+  "author": "Nexus Studio",
+  "accent": "#e9b18e",
+  "permissions": [],
+  "content": {
+    "type": "theme",
+    "palette": {
+      "accent": "#e9b18e",
+      "background": "#1b1416",
+      "panel": "#281f23",
+      "text": "#e6e9ee",
+      "muted": "#a1adb8"
+    }
+  }
+}

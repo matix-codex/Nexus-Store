@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "id": "rose-quartz",
+  "name": "Rose Quartz",
+  "description": "Een compleet Rose Quartz-palet voor je Nexus-dashboard. Pas het toe en wissel wanneer je wilt.",
+  "kind": "theme",
+  "version": "1.0.0",
+  "minNexus": "1.3.0",
+  "author": "Nexus Studio",
+  "accent": "#e0b4cc",
+  "permissions": [],
+  "content": {
+    "type": "theme",
+    "palette": {
+      "accent": "#e0b4cc",
+      "background": "#1a141e",
+      "panel": "#251d2b",
+      "text": "#e6e9ee",
+      "muted": "#a1adb8"
+    }
+  }
+}

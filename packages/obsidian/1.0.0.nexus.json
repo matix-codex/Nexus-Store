@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "id": "obsidian",
+  "name": "Obsidian",
+  "description": "Een compleet Obsidian-palet voor je Nexus-dashboard. Pas het toe en wissel wanneer je wilt.",
+  "kind": "theme",
+  "version": "1.0.0",
+  "minNexus": "1.3.0",
+  "author": "Nexus Studio",
+  "accent": "#c8ced9",
+  "permissions": [],
+  "content": {
+    "type": "theme",
+    "palette": {
+      "accent": "#c8ced9",
+      "background": "#101216",
+      "panel": "#191d24",
+      "text": "#e6e9ee",
+      "muted": "#a1adb8"
+    }
+  }
+}

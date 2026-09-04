@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "wikipedia",
+  "name": "Wikipedia",
+  "description": "Zoek en lees de vrije encyclopedie in een eigen Nexus-appvenster.",
+  "kind": "app",
+  "version": "1.0.0",
+  "minNexus": "1.3.0",
+  "author": "Nexus Studio",
+  "accent": "#b8c2cf",
+  "permissions": [
+    "web"
+  ],
+  "content": {
+    "type": "web",
+    "url": "https://nl.wikipedia.org/"
+  }
+}
