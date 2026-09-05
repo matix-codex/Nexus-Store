@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "id": "nord-frost",
+  "version": "1.0.0",
+  "minNexus": "1.4.0",
+  "name": "Nord Frost",
+  "description": "Koele blauwtinten met rustig, helder contrast.",
+  "author": "Nexus Hub",
+  "kind": "theme",
+  "accent": "#88c0d0",
+  "permissions": [],
+  "content": {
+    "type": "theme",
+    "palette": {
+      "accent": "#88c0d0",
+      "background": "#242933",
+      "panel": "#303846",
+      "text": "#eceff4",
+      "muted": "#aeb8c8"
+    }
+  }
+}

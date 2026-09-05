@@ -4,9 +4,13 @@ De aparte appstore voor [Nexus Hub](https://github.com/matix-codex/Nexus-Hub), m
 
 ## Collectie
 
-12 uitbreidingen: World Clock, Focus List, Quick Calc, Countdown, Session Stopwatch, Breathing Space, Wikipedia, Twitch en de thema's Obsidian, Ocean Blue, Sunset en Rose Quartz.
+De catalogus bevat **42 uitbreidingen**:
 
-Open **Nexus Store** in Nexus Hub 1.3.0 of nieuwer. Installeer een pakket, open het of voeg het toe aan het dashboard. Onder **Updates** werk je elk pakket apart bij. De store controleert bij opstarten en elke zes uur op nieuwe pakketten; installeren en bijwerken start je zelf.
+- **Lokale widgets en tools:** World Clock, Focus List, Quick Calc, Countdown, Session Stopwatch, Breathing Space, Pomodoro Deck, Habit Streak, Dice Roller, Decision Wheel, PC Session Planner, Water Tracker, Game Backlog Picker, Daily Goals, Shortcut Companion, Unit Converter, Color Studio, Password Generator, Game Session Counter, Loot Tracker en Match Scoreboard.
+- **Webapps:** Wikipedia, Twitch, YouTube, Reddit, SoundCloud, Steam Store en GitHub.
+- **Thema's:** Obsidian, Ocean Blue, Sunset, Rose Quartz, Cyberpunk Neon, Nord Frost, Solar Flare, Matrix Terminal, Crimson Night, Arctic Glass, Royal Purple, Forest Night, Monochrome Pro en Sakura Night.
+
+Open **Nexus Store** in Nexus Hub. Installeer een pakket, open het of voeg het toe aan het dashboard. Onder **Updates** werk je elk pakket apart bij. De store controleert bij opstarten en elke zes uur op nieuwe pakketten; installeren en bijwerken start je zelf. De oorspronkelijke collectie ondersteunt Nexus 1.3.0; de nieuwe collectie vereist Nexus 1.4.0.
 
 ## Pakket bijwerken
 
@@ -35,6 +39,6 @@ Verwijderen haalt het pakket uit Nexus en je dashboard; eigen opslag blijft beho
 
 ## Validatie
 
-`node tools/catalog.mjs` valideert alle manifesten, versievolgorde, catalogusverwijzingen, checksums en bestandsgroottes. Hiervoor is alleen Node.js 24 nodig. Geen npm-installatie of GitHub-token in de Nexus-client.
+`node tools/catalog.mjs` valideert alle manifesten, versievolgorde, catalogusverwijzingen, checksums en bestandsgroottes. `node tools/sandbox-smoke.mjs` compileert daarnaast het script van elke lokale uitbreiding. Hiervoor is alleen Node.js 24 nodig. Geen npm-installatie of GitHub-token in de Nexus-client.
 
 Nexus Store-pakketten worden apart bijgewerkt. De geïnstalleerde Windows-versies van Spotify, WhatsApp en Discord gebruiken hun eigen officiële updater.

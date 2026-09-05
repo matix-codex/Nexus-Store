@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "reddit",
+  "version": "1.0.0",
+  "minNexus": "1.4.0",
+  "name": "Reddit",
+  "description": "Communities en discussies openen in een apart Nexus-venster.",
+  "author": "Nexus Hub",
+  "kind": "app",
+  "accent": "#ff5700",
+  "permissions": [
+    "web"
+  ],
+  "content": {
+    "type": "web",
+    "url": "https://www.reddit.com/"
+  }
+}

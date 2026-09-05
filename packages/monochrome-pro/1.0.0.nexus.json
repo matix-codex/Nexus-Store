@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "id": "monochrome-pro",
+  "version": "1.0.0",
+  "minNexus": "1.4.0",
+  "name": "Monochrome Pro",
+  "description": "Minimalistisch zwart, grafiet en helder wit.",
+  "author": "Nexus Hub",
+  "kind": "theme",
+  "accent": "#d4d4d8",
+  "permissions": [],
+  "content": {
+    "type": "theme",
+    "palette": {
+      "accent": "#d4d4d8",
+      "background": "#09090b",
+      "panel": "#18181b",
+      "text": "#fafafa",
+      "muted": "#a1a1aa"
+    }
+  }
+}

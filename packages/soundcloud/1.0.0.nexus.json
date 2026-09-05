@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "soundcloud",
+  "version": "1.0.0",
+  "minNexus": "1.4.0",
+  "name": "SoundCloud",
+  "description": "Muziek, mixes en podcasts openen in een apart Nexus-venster.",
+  "author": "Nexus Hub",
+  "kind": "app",
+  "accent": "#ff5500",
+  "permissions": [
+    "web"
+  ],
+  "content": {
+    "type": "web",
+    "url": "https://soundcloud.com/"
+  }
+}

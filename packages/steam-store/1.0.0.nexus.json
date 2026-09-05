@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "steam-store",
+  "version": "1.0.0",
+  "minNexus": "1.4.0",
+  "name": "Steam Store",
+  "description": "De Steam-winkel en community openen zonder je dashboard te verlaten.",
+  "author": "Nexus Hub",
+  "kind": "app",
+  "accent": "#66c0f4",
+  "permissions": [
+    "web"
+  ],
+  "content": {
+    "type": "web",
+    "url": "https://store.steampowered.com/"
+  }
+}

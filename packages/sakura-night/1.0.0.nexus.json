@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "id": "sakura-night",
+  "version": "1.0.0",
+  "minNexus": "1.4.0",
+  "name": "Sakura Night",
+  "description": "Zacht roze op nachtblauw met een warme gloed.",
+  "author": "Nexus Hub",
+  "kind": "theme",
+  "accent": "#ff7eb6",
+  "permissions": [],
+  "content": {
+    "type": "theme",
+    "palette": {
+      "accent": "#ff7eb6",
+      "background": "#100d1a",
+      "panel": "#21182e",
+      "text": "#fff3fa",
+      "muted": "#baa7bd"
+    }
+  }
+}

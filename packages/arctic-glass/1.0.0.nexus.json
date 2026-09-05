@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "id": "arctic-glass",
+  "version": "1.0.0",
+  "minNexus": "1.4.0",
+  "name": "Arctic Glass",
+  "description": "Fris ijsblauw met lichte, glazen panelen.",
+  "author": "Nexus Hub",
+  "kind": "theme",
+  "accent": "#38bdf8",
+  "permissions": [],
+  "content": {
+    "type": "theme",
+    "palette": {
+      "accent": "#38bdf8",
+      "background": "#0c1722",
+      "panel": "#172938",
+      "text": "#effaff",
+      "muted": "#9cb7c8"
+    }
+  }
+}

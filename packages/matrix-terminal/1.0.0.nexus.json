@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "id": "matrix-terminal",
+  "version": "1.0.0",
+  "minNexus": "1.4.0",
+  "name": "Matrix Terminal",
+  "description": "Helder terminalgroen op bijna zwart.",
+  "author": "Nexus Hub",
+  "kind": "theme",
+  "accent": "#35e46b",
+  "permissions": [],
+  "content": {
+    "type": "theme",
+    "palette": {
+      "accent": "#35e46b",
+      "background": "#030805",
+      "panel": "#0a170e",
+      "text": "#dcffe6",
+      "muted": "#78a987"
+    }
+  }
+}

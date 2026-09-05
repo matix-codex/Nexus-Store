@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "id": "forest-night",
+  "version": "1.0.0",
+  "minNexus": "1.4.0",
+  "name": "Forest Night",
+  "description": "Rustig groen en moskleurige panelen.",
+  "author": "Nexus Hub",
+  "kind": "theme",
+  "accent": "#4ade80",
+  "permissions": [],
+  "content": {
+    "type": "theme",
+    "palette": {
+      "accent": "#4ade80",
+      "background": "#07100b",
+      "panel": "#122219",
+      "text": "#effff4",
+      "muted": "#96b5a0"
+    }
+  }
+}

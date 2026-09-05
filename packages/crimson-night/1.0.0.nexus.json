@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "id": "crimson-night",
+  "version": "1.0.0",
+  "minNexus": "1.4.0",
+  "name": "Crimson Night",
+  "description": "Diep rood met antraciet en zacht wit.",
+  "author": "Nexus Hub",
+  "kind": "theme",
+  "accent": "#ef445d",
+  "permissions": [],
+  "content": {
+    "type": "theme",
+    "palette": {
+      "accent": "#ef445d",
+      "background": "#10080b",
+      "panel": "#211116",
+      "text": "#fff1f3",
+      "muted": "#bc969f"
+    }
+  }
+}

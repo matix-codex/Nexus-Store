@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "youtube",
+  "version": "1.0.0",
+  "minNexus": "1.4.0",
+  "name": "YouTube",
+  "description": "Video, muziek en livecontent openen in een apart Nexus-venster.",
+  "author": "Nexus Hub",
+  "kind": "app",
+  "accent": "#ff0033",
+  "permissions": [
+    "web"
+  ],
+  "content": {
+    "type": "web",
+    "url": "https://www.youtube.com/"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "id": "cyberpunk-neon",
+  "version": "1.0.0",
+  "minNexus": "1.4.0",
+  "name": "Cyberpunk Neon",
+  "description": "Fel cyaan en magenta op een diepe nachtbasis.",
+  "author": "Nexus Hub",
+  "kind": "theme",
+  "accent": "#00e5ff",
+  "permissions": [],
+  "content": {
+    "type": "theme",
+    "palette": {
+      "accent": "#00e5ff",
+      "background": "#070812",
+      "panel": "#151126",
+      "text": "#f7f4ff",
+      "muted": "#aaa4c4"
+    }
+  }
+}

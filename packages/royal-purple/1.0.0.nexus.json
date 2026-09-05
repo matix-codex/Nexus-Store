@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "id": "royal-purple",
+  "version": "1.0.0",
+  "minNexus": "1.4.0",
+  "name": "Royal Purple",
+  "description": "Verzadigd paars met een luxe donkere basis.",
+  "author": "Nexus Hub",
+  "kind": "theme",
+  "accent": "#a855f7",
+  "permissions": [],
+  "content": {
+    "type": "theme",
+    "palette": {
+      "accent": "#a855f7",
+      "background": "#0e0817",
+      "panel": "#20102f",
+      "text": "#fbf5ff",
+      "muted": "#b8a0c8"
+    }
+  }
+}

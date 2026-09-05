@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "github",
+  "version": "1.0.0",
+  "minNexus": "1.4.0",
+  "name": "GitHub",
+  "description": "Repositories, issues en releases openen in een apart Nexus-venster.",
+  "author": "Nexus Hub",
+  "kind": "app",
+  "accent": "#8b5cf6",
+  "permissions": [
+    "web"
+  ],
+  "content": {
+    "type": "web",
+    "url": "https://github.com/"
+  }
+}

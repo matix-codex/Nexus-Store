@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "id": "solar-flare",
+  "version": "1.0.0",
+  "minNexus": "1.4.0",
+  "name": "Solar Flare",
+  "description": "Warm oranje met donker grafiet voor een energieke setup.",
+  "author": "Nexus Hub",
+  "kind": "theme",
+  "accent": "#ff8a1f",
+  "permissions": [],
+  "content": {
+    "type": "theme",
+    "palette": {
+      "accent": "#ff8a1f",
+      "background": "#140d09",
+      "panel": "#261711",
+      "text": "#fff4e8",
+      "muted": "#c5a994"
+    }
+  }
+}
